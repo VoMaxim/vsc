@@ -5,4 +5,4 @@
 // Если прописать команду cd .., то ты выйдешь из папки: C:\Users\Maxim\Desktop
 // Если прописать cd vsc, то зайдешь в нужную: C:\Users\Maxim\Desktop\vsc
 //
-// git clone https://github.com/VoMaxim/vsc.git JAVA - JAVA это папка на рабочем столе второго компа, куда выгрузиться проект с репо, который размещен на Хабе
+// git clone https://github.com/VoMaxim/vsc.git JAVA - JAVA это наименование папки, куда выгрузиться проект с репо, который размещен на Хабе
