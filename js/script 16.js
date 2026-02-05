@@ -41,7 +41,3 @@
 //    git remote add origin https://github.com/VoMaxim/vsc
 // 4. git push -u origin master - этой командой, прописанной в терминале, мы отправляем наш проект с компа на github
 //    -u - этим даем понять гиту, что все отправки комитов по умолчанию будут уходить в origin master
-//
-//
-//
-//    
